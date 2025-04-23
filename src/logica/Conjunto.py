@@ -5,5 +5,5 @@ class Conjunto:
         self.__conjunto = conjunto
 
     def promedio(self):
-        return False
+        return None
 
